@@ -1,6 +1,6 @@
 // Chapter Six
 
-import {car, cdr} from "./core";
+import {car, cdr} from "../lib/core";
 
 export const operator = car;
 

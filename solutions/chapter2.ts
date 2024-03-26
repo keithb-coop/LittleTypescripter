@@ -1,7 +1,7 @@
 
 // Chapter Two
 
-import {car, cdr, isAtom, isEq, isNull} from "./core";
+import {car, cdr, isAtom, isEq, isNull} from "../lib/core";
 
 export function isLat(s) {
     return isNull(s) || (isAtom(car(s)) && isLat(cdr(s)));

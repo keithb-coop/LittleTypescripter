@@ -1,6 +1,6 @@
 // Chapter Five
 
-import {add1, car, cdr, cons, isAtom, isEq, isNull} from "./core";
+import {add1, car, cdr, cons, isAtom, isEq, isNull} from "../lib/core";
 import {isEqan, plus} from "./chapter4"
 
 export function remberstar(a, l) {

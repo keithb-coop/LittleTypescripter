@@ -1,4 +1,4 @@
-import {add1, car, cdr, cons, isEq, isNull, isNumber, isZero, sub1} from "./core";
+import {add1, car, cdr, cons, isEq, isNull, isNumber, isZero, sub1} from "../lib/core";
 
 // Chapter Four
 

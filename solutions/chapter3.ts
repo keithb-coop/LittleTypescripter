@@ -1,6 +1,6 @@
 // Chapter Three
 
-import {car, cdr, cons, isEq, isNull} from "./core";
+import {car, cdr, cons, isEq, isNull} from "../lib/core";
 
 export function rember(a, lat) {
     return (

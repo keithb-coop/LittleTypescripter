@@ -13,7 +13,7 @@ import {
     isNull,
     isNumber, isUndefined,
     isZero,
-} from "./core";
+} from "../lib/core";
 
 import {build, first, second, third} from "./chapter7.ts"
 

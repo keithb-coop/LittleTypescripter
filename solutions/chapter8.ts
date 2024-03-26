@@ -8,7 +8,7 @@ import {
     isAtom,
     isEq,
     isNull
-} from "./core";
+} from "../lib/core";
 
 import {isEqn, plus, power, quotient, star} from "./chapter4.ts"
 import {firstSubExp, secondSubExp, operator} from "./chapter6.ts"

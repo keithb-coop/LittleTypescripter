@@ -1,6 +1,6 @@
 // Chapter Seven
 
-import {car, cdr, cons, isNull} from "./core";
+import {car, cdr, cons, isNull} from "../lib/core";
 import{isMember} from "./chapter2.ts"
 import {firsts, multirember} from "./chapter3.ts"
 import {isEqn, length} from "./chapter4.ts"
